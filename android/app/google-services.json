@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "230096264279",
+    "project_id": "robin-do-3314b",
+    "storage_bucket": "robin-do-3314b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230096264279:android:ce86c60aa2d6d38267d712",
+        "android_client_info": {
+          "package_name": "com.arisesoft.robindo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230096264279-7iru5t25jlbrp1iabfpkv8p8bn73m160.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arisesoft.robindo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "230096264279-tt9640u6gch01b4di4e3it3lf1nn070e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftItJc4xU6oV_tQYOQaKyKVM04zq_m_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230096264279-tt9640u6gch01b4di4e3it3lf1nn070e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "230096264279-a2no764ejqrt283jo27tmev0cv1sq3m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arisesoft.robindo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
